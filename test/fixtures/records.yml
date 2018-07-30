@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  day: 2018-07-29
+  height: 1.5
+  weight: 1.5
+  bmi: 1.5
+  daycalorie: 1
+  highblood: 1
+  lowblood: 1
+  diary: MyText
+  picture: MyString
+
+two:
+  day: 2018-07-29
+  height: 1.5
+  weight: 1.5
+  bmi: 1.5
+  daycalorie: 1
+  highblood: 1
+  lowblood: 1
+  diary: MyText
+  picture: MyString
